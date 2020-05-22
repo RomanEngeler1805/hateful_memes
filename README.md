@@ -2,9 +2,9 @@ Github Repo for the hateful meme challenge on "https://www.drivendata.org/compet
 
 ## Structure
 ```bash
-|- scripts
-|- data
-|- literature
+├── scripts
+├── data
+├── literature
 ```
 
 ## Prerequisites
