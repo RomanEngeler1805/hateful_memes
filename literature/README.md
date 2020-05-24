@@ -16,5 +16,9 @@ https://medium.com/capital-one-tech/learning-to-read-computer-vision-methods-for
 ## Vision models
 ### progressive resizing
 https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20
+### rescale
+https://medium.com/mindboard/image-classification-with-variable-input-resolution-in-keras-cbfbe576126f
 
 ## Pipeline
+### data loader
+https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
