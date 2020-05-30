@@ -12,6 +12,10 @@ https://nanonets.com/blog/deep-learning-ocr/
 https://medium.com/capital-one-tech/learning-to-read-computer-vision-methods-for-extracting-text-from-images-2ffcdae11594
 
 ## NLP model
+### Preprocessing
+https://www.kdnuggets.com/2019/04/text-preprocessing-nlp-machine-learning.html
+https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
+https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
 
 ## Vision models
 ### progressive resizing
