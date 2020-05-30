@@ -8,8 +8,9 @@ Github Repo for the hateful meme challenge on "https://www.drivendata.org/compet
 ```
 
 ## Prerequisites
-``` pytorch X.Y ```
+``` python3.6< ```
+``` pytorch 1.5< ```
 
 ## Authors
-Roman Engeler
+Roman Engeler <br>
 Andreas Schlaginhaufen
