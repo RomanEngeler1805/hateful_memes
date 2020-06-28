@@ -1,3 +1,6 @@
+## Memes Challenge
+https://arxiv.org/pdf/2005.04790.pdf
+
 ## Exploratory data analysis
 ### text data
 https://medium.com/@kamilmysiak/nlp-part-3-exploratory-data-analysis-of-text-data-1caa8ab3f79d
@@ -26,3 +29,6 @@ https://medium.com/mindboard/image-classification-with-variable-input-resolution
 ## Pipeline
 ### data loader
 https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
+
+### VisualBERT
+https://arxiv.org/pdf/1908.03557.pdf
