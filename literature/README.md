@@ -25,6 +25,8 @@ https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-ex
 https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20
 ### rescale
 https://medium.com/mindboard/image-classification-with-variable-input-resolution-in-keras-cbfbe576126f
+### Distilbert library
+https://huggingface.co/transformers/model_doc/distilbert.html
 
 ## Pipeline
 ### data loader
